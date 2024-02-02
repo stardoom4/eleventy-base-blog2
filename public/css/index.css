@@ -268,3 +268,15 @@ a[href].header-anchor:focus,
 h2 + .header-anchor {
 	font-size: 1.5em;
 }
+
+#statuscafe {
+    padding: .5em;
+    background-color: #000;
+    border: 1px solid #fff;
+}
+#statuscafe-username {
+    margin-bottom: .5em;
+}
+#statuscafe-content {
+    margin: 0 1em 0.5em 1em;
+				
